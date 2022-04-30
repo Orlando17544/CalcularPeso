@@ -1,0 +1,15 @@
+Key_Store_Path: Key_Store.jks
+Password: 1Anasmrknrvxrpsm
+
+Key:
+	Alias: Key_Alias
+	Password: 1Anasmrknrvxrpsm
+	Validity (years): 100
+
+Certificate:
+	First and last name: Orlando Canchola Jiménez
+	Organizational Unit: TI
+	Organization: Orlando Canchola Jiménez
+	City or Locality: San Miguel de Allende
+	State or Province: Guanajuato
+	Country Code (XX): 52
